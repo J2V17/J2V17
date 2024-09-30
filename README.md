@@ -1,4 +1,4 @@
-**Hi, I am Jeevan Victor Varghese**- 👀 I
+**Hi, I am Jeevan Victor Varghese**-
 - I am currently working on  100 Days of Code: The Complete Python Pro Bootcamp on Udemy
 - I am a student at Seneca Polytechnic doing Computer Programming and Analysis
 - I am working on academic as well as Personal Project which you can find here
